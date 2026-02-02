@@ -1,3 +1,4 @@
 # firstRepo
 this is my first repository
-Author - Aditi Madan
+<br>
+<b> Author - Aditi Madan </b>
